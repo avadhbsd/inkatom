@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyString
+  units_in_stock: 1
+  credits: MyString
+  shipping_details: MyString
+  product_url: MyString
+  paper_type: MyString
+
+two:
+  title: MyString
+  description: MyString
+  units_in_stock: 1
+  credits: MyString
+  shipping_details: MyString
+  product_url: MyString
+  paper_type: MyString
