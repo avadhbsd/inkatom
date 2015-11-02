@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  paper_name: MyString
+  paper_type: MyString
+  pper_weight: MyString
+  price_change: 1
+  poster_id: 
+
+two:
+  paper_name: MyString
+  paper_type: MyString
+  pper_weight: MyString
+  price_change: 1
+  poster_id: 
